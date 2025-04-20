@@ -17,3 +17,4 @@ My growth as an engineer!
 - GitHub profile setup
 - Created `learning-log-2025.md`
 - Getting used to Markdown syntax
+- Learned the basics of Bootstrap
