@@ -11,3 +11,5 @@
 ## Currently learning
 - JavaScript on Udemy
 - Git & GitHub workflow
+
+[Click here for the 2025 learning log](./learning-log-2025.md)
