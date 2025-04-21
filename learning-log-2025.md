@@ -13,8 +13,13 @@ My growth as an engineer!
 
 ## April
 
-### April 20th
+### 20th
 - GitHub profile setup
 - Created `learning-log-2025.md`
 - Getting used to Markdown syntax
 - Learned the basics of Bootstrap
+
+### 21th
+- Started reading "Clean Code" on Udemy
+- Analyzed the HTML structure of Discord app
+   - studied layout strategies and class naming patterns for web app
