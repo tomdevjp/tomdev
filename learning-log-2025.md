@@ -23,3 +23,8 @@ My growth as an engineer!
 - Started reading "Clean Code" on Udemy
 - Analyzed the HTML structure of Discord app
    - studied layout strategies and class naming patterns for web app
+
+### 22th
+- Getting used to Bootstrap
+- The basics of JavaScript
+- Adapting CSS for Discord
