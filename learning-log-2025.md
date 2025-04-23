@@ -28,3 +28,10 @@ My growth as an engineer!
 - Getting used to Bootstrap
 - The basics of JavaScript
 - Adapting CSS for Discord
+
+### 23th
+- JavaScript　Fundamentals
+ - Strings
+ - Math object
+ - Conditionals (if, else, switch)
+ - Logical operators (&&, ||, !)
