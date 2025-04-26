@@ -35,3 +35,10 @@ My growth as an engineer!
  - Math object
  - Conditionals (if, else, switch)
  - Logical operators (&&, ||, !)
+
+### 25th
+- PHP basics
+ - Output text
+ - Data types
+ - Conditionals (if, else, elseif)
+ - Embedding PHP into HTML using `<?php ?>` tags
